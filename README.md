@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Giovanna
-
 Hello! My name is Giovanna and I'm a Second Year computer science student and McMaster University with a great passion for learning.
 ------
 
