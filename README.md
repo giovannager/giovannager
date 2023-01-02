@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Giovanna
 
-Hello! My name is Giovanna and I'm a Second Year computer science student and McMaster University who loves learning :)
+Hello! My name is Giovanna and I'm a Second Year computer science student and McMaster University who loves to learn :)
 
 ### About me:
 - 👀 I’m interested in graphics, game development, UI/UX design, art, and music
