@@ -3,7 +3,7 @@
 Hello! My name is Giovanna and I'm a Second Year computer science student and McMaster University who loves to learn :)
 
 ### About me:
-- 👀 I’m interested in graphics, game development, UI/UX design, web development, art, and music
+- 👀 I’m interested in graphics, game development, web development, UI/UX design, art, and music
 - 🌱 I’m currently learning web development, korean as a second language, and subject areas pertaining to my school courses
 - 💪 My strongest programming languages are Python, C, and Java
 - ⚡ fun fact: I drew my profile picture :)
